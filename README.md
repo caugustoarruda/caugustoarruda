@@ -7,7 +7,7 @@ Comecei minha jornada como Dev em 2016 e de la pra cá já aprendi e continuo ap
 Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlos-arruda-1bb0a925/)
 
 <p align="left">
-    <a href="https://github.com/caugustogarruda?tab=repositories&sort=stargazers">
+    <a href="https://github.com/caugustoarruda?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
