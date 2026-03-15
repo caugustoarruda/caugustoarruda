@@ -14,7 +14,7 @@ Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlo
             src="https://custom-icon-badges.demolab.com/github/stars/caugustoarruda?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/caugustogarruda?tab=followers">
+    <a href="https://github.com/caugustoarruda?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
