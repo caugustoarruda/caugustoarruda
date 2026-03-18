@@ -61,7 +61,7 @@ Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caugustoarruda&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1500&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=caugustoarruda&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&locale=pt-br" 
   />
 
 <img 
