@@ -73,3 +73,4 @@ Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlo
   />
 
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=caugustoarruda&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
