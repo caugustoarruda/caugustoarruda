@@ -73,5 +73,3 @@ Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlo
   />
 
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caugustoarruda)](https://github.com/caugustoarruda/github-readme-stats)
