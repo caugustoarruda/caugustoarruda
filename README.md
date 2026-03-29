@@ -56,21 +56,17 @@ Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlo
 ### 📊 Estatísticas
 
 <p>
-  <img 
+  <!-- <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caugustoarruda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1500" 
-  />
-
-<img 
+ <img  
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caugustoarruda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1500" 
-  />
-
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caugustoarruda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1500" -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caugustoarruda&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caugustoarruda&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
