@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Carlos, tenho 46 anos e sou natural de Minas Gerais. Tenho formação em Administração, mas sempre atuei em empresas da área de tecnologia. Atualmente estou trabalhando na `SutHub`, onde atuo como **`Desenvolvedor Backend Python`**.
+Me chamo Carlos, tenho 45 anos e sou natural de Abaeté - Minas Gerais. Tenho formação em Administração, mas sempre atuei em empresas da área de tecnologia. Atualmente estou `em busca de novas oportunidades` como **`Desenvolvedor Backend Python`**.
 Comecei minha jornada como Dev em 2016 e de la pra cá já aprendi e continuo aprendendo muito sobre o assunto. 
 Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlos-arruda-1bb0a925/)
 
