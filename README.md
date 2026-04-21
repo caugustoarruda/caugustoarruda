@@ -2,7 +2,7 @@
 
 **Python Backend Developer | Django | Web Development**
 
-Desenvolvedor Python focado em backend, construção de aplicações web com Django. Atuo com organização de código, desenvolvimento de soluções web.
+Desenvolvedor Python focado em backend, construção de aplicações web com Django. Atuo com desenvolvimento de soluções web.
 
 ## Sobre mim
 
