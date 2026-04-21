@@ -1,10 +1,32 @@
-# 🧑‍💻 Carlos Arruda
+# Carlos Arruda
 
-**`Desenvolvedor Python`**
+**Python Backend Developer | Django | Web Development**
 
-Me chamo Carlos, tenho 45 anos e sou natural de Abaeté - Minas Gerais. Tenho formação em Administração, mas sempre atuei em empresas da área de tecnologia. Atualmente estou `em busca de novas oportunidades` como **`Desenvolvedor Backend Python`**.
-Comecei minha jornada como Dev em 2016 e de la pra cá já aprendi e continuo aprendendo muito sobre o assunto. 
-Acessem meu perfil no linkedin [Carlos Arruda](https://www.linkedin.com/in/carlos-arruda-1bb0a925/)
+Desenvolvedor Python focado em backend, construção de aplicações web com Django. Atuo com organização de código, desenvolvimento de soluções web.
+
+## Sobre mim
+
+Sou desenvolvedor Python com foco em backend e construção de software orientado a negócio. Gosto de trabalhar em projetos que onde valorizem Pessoas, com oportunidade de desenvolvimento pessoal e evolução contínua do produto.
+
+## Stack principal
+
+- Python
+- Django
+- Git
+
+## Projetos em destaque
+
+- **carros** — projeto para prática e aplicação de conceitos em desenvolvimento backend
+- **flix-api** — projeto em Python voltado para estruturação de API
+
+## Objetivo profissional
+
+Buscar oportunidades como Desenvolvedor Backend Python, atuando em times que valorizam Pessoas, entrega consistente e evolução técnica contínua.
+
+## Como me encontrar
+
+- LinkedIn: [Carlos Arruda](https://www.linkedin.com/in/carlos-arruda-1bb0a925/)
+- Email: caugustogarruda@gmail.com
 
 <p align="left">
     <a href="https://github.com/caugustoarruda?tab=repositories&sort=stargazers">
