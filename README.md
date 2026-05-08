@@ -18,6 +18,7 @@ Sou desenvolvedor Python com foco em backend e construção de software orientad
 
 - **carros** — projeto para prática e aplicação de conceitos em desenvolvimento backend
 - **flix-api** — projeto em Python voltado para estruturação de API com Django Rest Framework
+- **flix_app** — projeto em streamlit integrando com a api flix-api
 - **fake_youtube** — projeto em Html/css voltado para aplicação de conceitos
 
 ## Objetivo profissional
