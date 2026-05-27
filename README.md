@@ -78,9 +78,5 @@ Buscar oportunidades como Desenvolvedor Backend Python, atuando em times que val
 <br/>
 
 ### 📊 Estatísticas
-<div>
-<a href="https://github.com/caugustoarruda">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caugustoarruda&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caugustoarruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
