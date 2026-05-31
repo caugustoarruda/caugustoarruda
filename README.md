@@ -6,7 +6,7 @@ Desenvolvedor Python focado em backend, construção de aplicações web com Dja
 
 ## Sobre mim
 
-Sou desenvolvedor Python com foco em backend e construção de software orientado a negócio. Gosto de trabalhar em projetos que onde valorizem Pessoas, com oportunidade de desenvolvimento pessoal e evolução contínua do produto.
+Sou desenvolvedor Python com foco em backend e construção de software orientado a negócio. Gosto de trabalhar em projetos onde valorizem Pessoas, com oportunidade de desenvolvimento pessoal e evolução contínua do produto.
 
 ## Stack principal
 
