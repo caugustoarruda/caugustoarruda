@@ -13,6 +13,7 @@ Sou desenvolvedor Python com foco em backend e construção de software orientad
 - Python
 - Django
 - Git
+- Fastapi
 
 ## Projetos em destaque
 
