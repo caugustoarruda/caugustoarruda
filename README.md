@@ -74,6 +74,14 @@ Buscar oportunidades como Desenvolvedor Backend Python, atuando em times que val
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=django" 
 />
+<img 
+    align="left" 
+    alt="Fastapi" 
+    title="Fastapi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=fastapi" 
+/>
 
 <br/>
 <br/>
