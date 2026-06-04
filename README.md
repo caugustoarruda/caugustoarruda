@@ -79,4 +79,6 @@ Buscar oportunidades como Desenvolvedor Backend Python, atuando em times que val
 <br/>
 
 ### 📊 Estatísticas
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false">    <img  alt="caugustoarruda's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/caugustoarruda?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
+![](https://github-readme-stats.shion.dev/api?username=caugustoarruda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=caugustoarruda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
