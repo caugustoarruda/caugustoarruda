@@ -1,19 +1,21 @@
 # Carlos Arruda
 
-**Python Backend Developer | Django | Web Development**
+**Python Backend Developer | Django | FastAPI | Web Development**
 
-Desenvolvedor Python focado em backend, construção de aplicações web com Django. Atuo com desenvolvimento de soluções web.
+Python Backend Developer com foco em Django, FastAPI e desenvolvimento de APIs REST. Construo soluções web, automatizações e aplicações backend com atenção à qualidade, evolução contínua e entrega orientada a negócio.
 
 ## Sobre mim
 
-Sou desenvolvedor Python com foco em backend e construção de software orientado a negócio. Gosto de trabalhar em projetos onde valorizem Pessoas, com oportunidade de desenvolvimento pessoal e evolução contínua do produto.
+Sou desenvolvedor Python com foco em backend, APIs e aplicações web. Tenho experiência com Django, FastAPI e Git, atuando na construção e evolução de soluções orientadas a negócio. Busco oportunidades em times que valorizem colaboração, aprendizado contínuo e entrega de valor.
 
 ## Stack principal
 
-- Python
-- Django
-- Git
-- Fastapi
+ - Python
+ - Django
+ - FastAPI
+ - APIs REST
+ - Git
+ - Docker
 
 ## Projetos em destaque
 
@@ -21,11 +23,6 @@ Sou desenvolvedor Python com foco em backend e construção de software orientad
 - **flix-api** — projeto em Python voltado para estruturação de API com Django Rest Framework
 - **flix_app** — projeto em Streamlit integrando com a api flix-api
 - **sge** — projeto Fullstack/Api em Django/DjangoRestFramework para prática e aplicação de conceitos em desenvolvimento (Gerenciamento de estoque)
-- **fake_youtube** — projeto em Html/css voltado para aplicação de conceitos
-
-## Objetivo profissional
-
-Buscar oportunidades como Desenvolvedor Backend Python, atuando em times que valorizam Pessoas, entrega consistente e evolução técnica contínua.
 
 ## Como me encontrar
 
