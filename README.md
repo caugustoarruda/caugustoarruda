@@ -1,12 +1,15 @@
 # Carlos Arruda
 
-**Python Backend Developer | Django | FastAPI | Web Development**
-
-Python Backend Developer com foco em Django, FastAPI e desenvolvimento de APIs REST. Construo soluções web, automatizações e aplicações backend com atenção à qualidade, evolução contínua e entrega orientada a negócio.
+**Desenvolvedor Backend | Python | Django | Desenvolvedor Web | FastAPI | Integração de Sistemas | AWS | Docker | Clean Code | SQL | MySQL**
 
 ## Sobre mim
 
-Sou desenvolvedor Python com foco em backend, APIs e aplicações web. Tenho experiência com Django, FastAPI e Git, atuando na construção e evolução de soluções orientadas a negócio. Busco oportunidades em times que valorizem colaboração, aprendizado contínuo e entrega de valor.
+Sou um profissional com mais de 10 anos de experiência em desenvolvimento de software, com foco em Backend Python, atuando na construção, manutenção e evolução de aplicações corporativas para os segmentos financeiro, seguros, energia e indústria. 
+
+Tenho experiência em ambientes AWS Cloud, integrações sistêmicas e automação de processos. Ao longo da minha carreira, participei de todas as etapas do ciclo de desenvolvimento de software, incluindo análise de requisitos, desenvolvimento, testes, homologação, deploy e sustentação.
+
+Atuei em projetos de arquitetura Serverless, desenvolvimento de RPAs, migração de ERP e modernização de aplicações, sempre com foco em performance, escalabilidade, estabilidade e qualidade das soluções. Possuo sólidos conhecimentos em Python, Django, AWS (Lambda, S3, Fargate e SQS), MySQL, SQL, Selenium, HTML, CSS, JavaScript e JSON, além de ampla experiência no desenvolvimento e consumo de APIs REST, integração de sistemas, processamento de dados, automação de processos, Clean Code, arquitetura Serverless e desenvolvimento de aplicações backend escaláveis.
+
 
 ## Stack principal
 
@@ -16,6 +19,7 @@ Sou desenvolvedor Python com foco em backend, APIs e aplicações web. Tenho exp
  - APIs REST
  - Git
  - Docker
+ - Streamlit
 
 ## Projetos em destaque
 
@@ -79,6 +83,22 @@ Sou desenvolvedor Python com foco em backend, APIs e aplicações web. Tenho exp
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=fastapi" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=docker" 
+/>
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=ubuntu" 
 />
 
 <br/>
