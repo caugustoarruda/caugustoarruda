@@ -1,41 +1,27 @@
 # Carlos Arruda
 
-**Desenvolvedor Backend Python | Django, FastAPI, AWS e Docker | APIs, Integrações e IA Aplicada | LLMs, LangChain e RAG**
+**Desenvolvedor Backend Python | Django, FastAPI, AWS e Docker | APIs, Integrações, Automações e IA Aplicada | LLMs, LangChain e RAG**
 
 ## Sobre mim
 
 Sou Desenvolvedor Backend Python com cerca de 10 anos de experiência em desenvolvimento de sistemas e mais de 20 anos de trajetória profissional em tecnologia e serviços.
 
-Atuo na construção e evolução de APIs, integrações entre sistemas, automações e serviços backend para ambientes corporativos, utilizando principalmente:
-Python, Django, FastAPI, Django REST Framework, AWS, Docker, MySQL, PostgreSQL, MongoDB, Redis e Selenium.
+Construo e evoluo APIs, integrações entre sistemas, automações e serviços backend para ambientes corporativos, com foco em soluções confiáveis, manuteníveis e alinhadas às necessidades do negócio.
+Minha stack principal inclui Python, Django, FastAPI, Django REST Framework, AWS, Docker, MySQL, PostgreSQL, MongoDB, Redis e Selenium. Também atuo com AWS Lambda, Amazon S3, Fargate e SQS em cenários de processamento assíncrono, mensageria e arquitetura serverless.
 
-Ao longo da minha experiência, participei do desenvolvimento de soluções para integração de sistemas, processamento de arquivos, automação de processos e evolução de aplicações backend. Também atuei com serviços AWS, incluindo Lambda, S3, Fargate e SQS, em cenários de processamento assíncrono, mensageria e arquitetura serverless.
+Ao longo da minha experiência, participei do desenvolvimento de soluções para integração de sistemas, processamento de arquivos, automação de processos e evolução de aplicações backend.
+Entre os resultados obtidos em projetos, destacam-se:
 
-Entre os resultados obtidos em projetos:
-redução do processamento de arquivos críticos de aproximadamente 15 para 10 minutos em uma plataforma contábil;
-redução do tempo de consulta de cotações de mais de 20 para menos de 10 minutos em uma automação desenvolvida com Python e Selenium;
-desenvolvimento e manutenção de aplicações backend com foco em estabilidade, integração, qualidade de código e evolução contínua.
+• Redução do tempo de processamento de arquivos críticos de aproximadamente 15 para 10 minutos em uma plataforma contábil.
 
-Atualmente, estou direcionando parte da minha atuação para IA aplicada ao desenvolvimento de produtos e automações, com projetos práticos envolvendo:
-LLMs e IA generativa;
-agentes de IA;
-LangChain;
-RAG;
-FastAPI;
-automação de processos;
-integração entre modelos de linguagem e sistemas backend.
+• Redução do tempo de consulta de cotações de mais de 20 para menos de 10 minutos em uma automação desenvolvida com Python e Selenium.
 
-Meu objetivo é unir experiência em engenharia backend Python com a construção de soluções inteligentes, seguras e úteis para problemas reais de negócio.
+• Desenvolvimento e manutenção de aplicações backend com foco em estabilidade, integração, qualidade de código e evolução contínua.
 
-## Stack principal
+Também venho desenvolvendo projetos práticos de IA aplicada a produtos, automações e sistemas backend, utilizando LLMs, IA generativa, agentes de IA, LangChain, RAG e FastAPI.
 
- - Python
- - Django
- - FastAPI
- - APIs REST
- - Git
- - Docker
- - Streamlit
+Meu objetivo é unir engenharia backend Python, automação e Inteligência Artificial para construir soluções seguras, úteis e orientadas a problemas reais de negócio.
+
 
 ## Projetos em destaque
 
