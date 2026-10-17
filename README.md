@@ -25,7 +25,6 @@ Meu objetivo é unir engenharia backend Python, automação e Inteligência Arti
 
 ## Projetos em destaque
 
-- **carros** — projeto em Django para prática e aplicação de conceitos em desenvolvimento backend
 - **flix-api** — projeto em Python voltado para estruturação de API com Django Rest Framework
 - **flix_app** — projeto em Streamlit integrando com a api flix-api
 - **sge** — projeto Fullstack/Api em Django/DjangoRestFramework para prática e aplicação de conceitos em desenvolvimento (Gerenciamento de estoque)
