@@ -1,26 +1,10 @@
 # Carlos Arruda
 
-**Desenvolvedor Backend Python | Django, FastAPI, AWS e Docker | APIs, Integrações, Automações e IA Aplicada | LLMs, LangChain e RAG**
+**Desenvolvedor Backend Python | Django, FastAPI, AWS e Docker | APIs, Integrações, Automações **
 
 ## Sobre mim
 
-Sou Desenvolvedor Backend Python com cerca de 10 anos de experiência em desenvolvimento de sistemas e mais de 20 anos de trajetória profissional em tecnologia e serviços.
-
-Construo e evoluo APIs, integrações entre sistemas, automações e serviços backend para ambientes corporativos, com foco em soluções confiáveis, manuteníveis e alinhadas às necessidades do negócio.
-Minha stack principal inclui Python, Django, FastAPI, Django REST Framework, AWS, Docker, MySQL, PostgreSQL, MongoDB, Redis e Selenium. Também atuo com AWS Lambda, Amazon S3, Fargate e SQS em cenários de processamento assíncrono, mensageria e arquitetura serverless.
-
-Ao longo da minha experiência, participei do desenvolvimento de soluções para integração de sistemas, processamento de arquivos, automação de processos e evolução de aplicações backend.
-Entre os resultados obtidos em projetos, destacam-se:
-
-• Redução do tempo de processamento de arquivos críticos de aproximadamente 15 para 10 minutos em uma plataforma contábil.
-
-• Redução do tempo de consulta de cotações de mais de 20 para menos de 10 minutos em uma automação desenvolvida com Python e Selenium.
-
-• Desenvolvimento e manutenção de aplicações backend com foco em estabilidade, integração, qualidade de código e evolução contínua.
-
-Também venho desenvolvendo projetos práticos de IA aplicada a produtos, automações e sistemas backend, utilizando LLMs, IA generativa, agentes de IA, LangChain, RAG e FastAPI.
-
-Meu objetivo é unir engenharia backend Python, automação e Inteligência Artificial para construir soluções seguras, úteis e orientadas a problemas reais de negócio.
+Profissional com mais de 10 anos de experiência em desenvolvimento de software, com foco em Backend Python, atuando na construção, manutenção e evolução de aplicações corporativas para os segmentos financeiro, seguros, energia e indústria. Possui experiência em ambientes AWS Cloud, integrações sistêmicas e automação de processos. Ao longo da carreira, participou de todas as etapas do ciclo de desenvolvimento de software, incluindo análise de requisitos, desenvolvimento, testes, homologação, deploy e sustentação. Atuou em projetos de arquitetura Serverless, RPAs, migração de ERP e modernização de aplicações, sempre com foco em performance, estabilidade e qualidade. Possui sólidos conhecimentos em Python, Django, AWS (Lambda, S3, Fargate e SQS), MySQL, SQL, Selenium, HTML, CSS, JavaScript e JSON, além de experiência em APIs REST, integração de sistemas, processamento de dados, automação de processos, Clean Code, arquitetura Serverless e desenvolvimento de aplicações backend escaláveis.
 
 
 ## Projetos em destaque
