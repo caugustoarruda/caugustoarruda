@@ -1,6 +1,6 @@
 # Carlos Arruda
 
-**Desenvolvedor Backend Pleno  |  Python  |  Django  |  FastAPI  |  AWS  |  Docker**
+**Desenvolvedor Back-end Pleno  |  Python  |  Django  |  FastAPI  |  AWS  |  Docker**
 
 ## Sobre mim
 
