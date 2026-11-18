@@ -1,10 +1,10 @@
 # Carlos Arruda
 
-**Desenvolvedor Backend Python | Django, FastAPI, AWS e Docker | APIs, Integrações, Automações**
+**Desenvolvedor Backend Pleno  |  Python  |  Django  |  FastAPI  |  AWS  |  Docker**
 
 ## Sobre mim
 
-Profissional com mais de 10 anos de experiência em desenvolvimento de software, com foco em Backend Python, atuando na construção, manutenção e evolução de aplicações corporativas para os segmentos financeiro, seguros, energia e indústria. Possui experiência em ambientes AWS Cloud, integrações sistêmicas e automação de processos. Ao longo da carreira, participou de todas as etapas do ciclo de desenvolvimento de software, incluindo análise de requisitos, desenvolvimento, testes, homologação, deploy e sustentação. Atuou em projetos de arquitetura Serverless, RPAs, migração de ERP e modernização de aplicações, sempre com foco em performance, estabilidade e qualidade. Possui sólidos conhecimentos em Python, Django, AWS (Lambda, S3, Fargate e SQS), MySQL, SQL, Selenium, HTML, CSS, JavaScript e JSON, além de experiência em APIs REST, integração de sistemas, processamento de dados, automação de processos, Clean Code, arquitetura Serverless e desenvolvimento de aplicações backend escaláveis.
+Desenvolvedor Back-end com mais de 10 anos de experiência em engenharia de software, especializado no ecossistema Python (Django, FastAPI) e arquitetura em nuvem AWS (Lambda, S3, Fargate, SQS). Sólida trajetória na construção de APIs RESTful escaláveis, microsserviços, arquitetura Serverless, processamento assíncrono e automação (RPA) para clientes de grande porte nos setores financeiro, seguros, varejo e energia (Itaú, Carrefour, Zurich, Vale, CEMIG). Vivência completa no ciclo de vida de software, conteinerização com Docker, bancos de dados relacionais (MySQL/SQL) e boas práticas de Clean Code e performance.
 
 
 ## Projetos em destaque
